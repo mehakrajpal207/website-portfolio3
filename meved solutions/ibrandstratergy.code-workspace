@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Desktop/ibrandstratergy"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "plugins"
+		},
+		{
+			"path": "../fonts.gstatic.com/s"
+		},
+		{
+			"path": "../www.googletagmanager.com"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ibrandstratergy"
+	}
+}
